@@ -1,6 +1,6 @@
 # 🚗 Sistema de Gerenciamento de Estacionamento - Desafio DIO .NET
 
-Este projeto foi desenvolvido como parte do desafio proposto no módulo de Fundamentos da trilha .NET da DIO. O objetivo principal foi aplicar os conhecimentos iniciais da linguagem C# e conceitos de programação orientada a objetos para resolver um problema prático: o gerenciamento de um estacionamento.
+Este projeto foi desenvolvido como parte do desafio proposto no módulo de Fundamentos da trilha .NET da DIO. O objetivo principal foi aplicar os conhecimentos iniciais da linguagem C# e conceitos de programação orientada a objetos para resolver um problema prático.
 
 ## 📝 Descrição do Projeto
 
@@ -23,8 +23,6 @@ Também foram implementados três métodos principais:
 - **AdicionarVeiculo():** adiciona uma placa à lista de veículos
 - **RemoverVeiculo():** remove uma placa após calcular e exibir o valor total a ser pago
 - **ListarVeiculos():** exibe todos os veículos atualmente estacionados ou uma mensagem caso não haja nenhum
-
-Além da lógica da classe, foi criado um **menu interativo no console**, permitindo que o usuário navegue entre as opções de forma simples e intuitiva até optar por encerrar o programa.
 
 ## 🛠️ Tecnologias Utilizadas
 
